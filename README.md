@@ -22,35 +22,41 @@
 
 ## Social Handles
 
-<table align="center">
-<tr>
-<td>
-<a href="https://linkedin.com/in/junaidmohd02">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50">
-</a>
-</td>
+## Social Handles
 
-<td align="center" valign="middle">
-<b>•</b>
-</td>
+<p align="center">
+  <a href="https://linkedin.com/in/junaidmohd02">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50">
+  </a>
 
-<td>
-<a href="mailto:theub002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50">
-</a>
-</td>
-</tr>
-</table>
+  &nbsp;•&nbsp;
+
+  <a href="mailto:theub002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50">
+  </a>
+</p>
 
 ## CP Handles
-<table align="center">
-<tr>
-<td><img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45"></td>
-<td align="center" valign="middle"><b>•</b></td>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45">
-<td align="center" valign="middle"><b>•</b></td>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="45">
-<td align="center" valign="middle"><b>•</b></td>
-<td><img src="https://img.atcoder.jp/assets/atcoder.png" height="45"></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://codeforces.com/profile/theub">
+    <img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45">
+  </a>
+
+  &nbsp;•&nbsp;
+
+  <a href="https://www.codechef.com/users/theub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45">
+  </a>
+
+  &nbsp;•&nbsp;
+
+  <a href="https://leetcode.com/u/theub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="45">
+  </a>
+
+  &nbsp;•&nbsp;
+
+  <a href="https://atcoder.jp/users/theub_">
+    <img src="https://img.atcoder.jp/assets/atcoder.png" height="45">
+  </a>
+</p>
