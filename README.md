@@ -26,6 +26,7 @@
   <a href="https://linkedin.com/in/junaidmohd02">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   
   <a href="mailto:theub002@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -34,21 +35,22 @@
 
 ## CP Handles
 <p align="center">
+  <a href="https://codeforces.com/profile/theub">
+    <img src="https://cdn.simpleicons.org/codeforces" height="45" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://codeforces.com/profile/theub">
-  <img src="https://cdn.simpleicons.org/codeforces" height="45" style="margin-right:15px;"/>
-</a>
+  <a href="https://www.codechef.com/users/theub">
+    <img src="https://cdn.simpleicons.org/codechef" height="45" alt="CodeChef"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/theub">
-  <img src="https://cdn.simpleicons.org/codechef" height="45" style="margin-right:15px;"/>
-</a>
+  <a href="https://leetcode.com/u/theub">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/theub">
-  <img src="https://skillicons.dev/icons?i=leetcode" style="margin-right:15px;"/>
-</a>
-
-<a href="https://atcoder.jp/users/theub_">
-  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" />
-</a>
-
+  <a href="https://atcoder.jp/users/theub_">
+    <img src="https://img.atcoder.jp/assets/atcoder.png" height="45" alt="AtCoder"/>
+  </a>
 </p>
