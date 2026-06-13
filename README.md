@@ -36,18 +36,18 @@
 <p align="center">
 
 <a href="https://codeforces.com/profile/theub">
-  <img src="https://cdn.simpleicons.org/codeforces" height="45"/>
+  <img src="https://cdn.simpleicons.org/codeforces" height="45" style="margin-right:15px;"/>
 </a>
 
 <a href="https://www.codechef.com/users/theub">
-  <img src="https://cdn.simpleicons.org/codechef" height="45"/>
+  <img src="https://cdn.simpleicons.org/codechef" height="45" style="margin-right:15px;"/>
 </a>
 
 <a href="https://leetcode.com/theub">
-  <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=leetcode" style="margin-right:15px;"/>
 </a>
 
-<a href="https://atcoder.jp/users/theub">
+<a href="https://atcoder.jp/users/theub_">
   <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" />
 </a>
 
