@@ -22,18 +22,19 @@
 
 ### Social Handles
 <p align="left">
-  <a href="https://www.linkedin.com/in/junaidmohd02/"><img src="YOUR_LINKEDIN_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="mailto:theub002@gmail.com"><img src="YOUR_GMAIL_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/></a>
 </p>
 
 ### CP Handles
 <p align="left">
-  <a href="https://www.codechef.com/users/theub"><img src="YOUR_CODECHEF_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="YOUR_CODECHEF_LINK_HERE"><img src="https://img.shields.io/badge/CodeChef-%233B2B20.svg?style=for-the-badge&logo=codechef&logoColor=white" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/theub/"><img src="YOUR_LEETCODE_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="YOUR_LEETCODE_LINK_HERE"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=ffa116" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/theub"><img src="YOUR_CODEFORCES_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="YOUR_CODEFORCES_LINK_HERE"><img src="https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=for-the-badge&logo=codeforces&logoColor=white" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/theub_"><img src="YOUR_ATCODER_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  <a href="YOUR_ATCODER_LINK_HERE"><img src="https://img.shields.io/badge/AtCoder-%23000000.svg?style=for-the-badge&logo=atcoder&logoColor=white" style="vertical-align: middle;"/></a>
 </p>
+
