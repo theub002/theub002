@@ -24,33 +24,45 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/junaidmohd02">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  &nbsp;•&nbsp;
-  
+
+  <span style="font-size:22px; vertical-align:middle;"> • </span>
+
   <a href="mailto:theub002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
 
 ## CP Handles
 <p align="center">
   <a href="https://codeforces.com/profile/theub">
-  <img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45" alt="Codeforces"/>
-</a>
-  &nbsp;•&nbsp;
+    <img src="https://codeforces.org/s/0/apple-icon-180x180.png"
+         height="45"
+         style="vertical-align: middle;">
+  </a>
+
+  <span style="vertical-align: middle; font-size: 20px;"> • </span>
 
   <a href="https://www.codechef.com/users/theub">
-    <img src="https://cdn.simpleicons.org/codechef" height="45" alt="CodeChef"/>
+    <img src="https://cdn.simpleicons.org/codechef"
+         height="45"
+         style="vertical-align: middle;">
   </a>
-  &nbsp;•&nbsp;
+
+  <span style="vertical-align: middle; font-size: 20px;"> • </span>
 
   <a href="https://leetcode.com/u/theub">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode"
+         height="45"
+         style="vertical-align: middle;">
   </a>
-  &nbsp;•&nbsp;
+
+  <span style="vertical-align: middle; font-size: 20px;"> • </span>
 
   <a href="https://atcoder.jp/users/theub_">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" height="45" alt="AtCoder"/>
+    <img src="https://img.atcoder.jp/assets/atcoder.png"
+         height="45"
+         style="vertical-align: middle;">
   </a>
 </p>
