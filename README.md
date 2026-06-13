@@ -24,31 +24,31 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/junaidmohd02">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   
   <a href="mailto:theub002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
 ## CP Handles
 <p align="center">
   <a href="https://codeforces.com/profile/theub">
-    <img src="https://cdn.simpleicons.org/codeforces" height="45" alt="Codeforces"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45" alt="Codeforces"/>
+</a>
+  &nbsp;•&nbsp;
 
   <a href="https://www.codechef.com/users/theub">
     <img src="https://cdn.simpleicons.org/codechef" height="45" alt="CodeChef"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;•&nbsp;
 
   <a href="https://leetcode.com/u/theub">
     <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;•&nbsp;
 
   <a href="https://atcoder.jp/users/theub_">
     <img src="https://img.atcoder.jp/assets/atcoder.png" height="45" alt="AtCoder"/>
