@@ -47,9 +47,9 @@
 <tr>
 <td><img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45"></td>
 <td align="center" valign="middle"><b>•</b></td>
-<td><img src="https://cdn.simpleicons.org/codechef" height="45"></td>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45">
 <td align="center" valign="middle"><b>•</b></td>
-<td><img src="https://cdn.simpleicons.org/leetcode" height="45"></td>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="45">
 <td align="center" valign="middle"><b>•</b></td>
 <td><img src="https://img.atcoder.jp/assets/atcoder.png" height="45"></td>
 </tr>
