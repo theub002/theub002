@@ -35,6 +35,14 @@
 
 ## CP Handles
 <p align="center">
+  <a href="https://codeforces.com/profile/theub">
+  <img src="https://codeforces.org/s/0/apple-icon-180x180.png" 
+    width="40"
+    height="40" 
+    alt="Codeforces" 
+    align="middle"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/theub">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codechef/white">
@@ -53,15 +61,7 @@
       height="40" 
       alt="LeetCode"
       align="middle" />
-  </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/theub">
-  <img src="https://codeforces.org/s/0/apple-icon-180x180.png" 
-    width="40"
-    height="40" 
-    alt="Codeforces" 
-    align="middle"/>
-  </a>
+  </a>  
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="https://atcoder.jp/users/theub_">
   <img src="https://img.atcoder.jp/assets/atcoder.png" 
