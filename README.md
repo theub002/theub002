@@ -22,19 +22,18 @@
 
 ### Social Handles
 <p align="left">
-  <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="https://www.linkedin.com/in/junaidmohd02/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="mailto:theub002@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" style="vertical-align: middle;"/></a>
 </p>
 
 ### CP Handles
 <p align="left">
-  <a href="YOUR_CODECHEF_LINK_HERE"><img src="https://img.shields.io/badge/CodeChef-%233B2B20.svg?style=for-the-badge&logo=codechef&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="https://www.codechef.com/users/theub"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg" width="40" style="vertical-align: middle; filter: invert(34%) sepia(34%) saturate(417%) hue-rotate(342deg) brightness(91%) contrast(85%);"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LEETCODE_LINK_HERE"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=ffa116" style="vertical-align: middle;"/></a>
+  <a href="https://leetcode.com/u/theub/"><img src="https://img.icons8.com/color/48/000000/leetcode.png" width="40" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_CODEFORCES_LINK_HERE"><img src="https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=for-the-badge&logo=codeforces&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="https://codeforces.com/profile/theub"><img src="https://img.icons8.com/color/48/000000/codeforces.png" width="40" style="vertical-align: middle;"/></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_ATCODER_LINK_HERE"><img src="https://img.shields.io/badge/AtCoder-%23000000.svg?style=for-the-badge&logo=atcoder&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="https://atcoder.jp/users/theub_"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg" width="40" style="vertical-align: middle; filter: invert(100%);"/></a>
 </p>
-
