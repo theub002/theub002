@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theub002&layout=compact&theme=tokyonight" />
 </p>
 
-## Social Handles
+## 📬 Social Handles
 <p align="center">
   <a href="https://www.linkedin.com/in/junaidmohd02/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn" align="middle" />
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-## CP Handles
+## 🏆 CP Handles
 <p align="center">
   <a href="https://codeforces.com/profile/theub">
   <img src="https://codeforces.org/s/0/apple-icon-180x180.png" 
@@ -71,3 +71,10 @@
        align="middle"/>
 </a>
 </p>
+
+<!-- <p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=theub" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/theub?theme=dark&font=Karma" />
+</p> -->
