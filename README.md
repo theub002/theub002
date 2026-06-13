@@ -22,47 +22,35 @@
 
 ## Social Handles
 
-<p align="center">
-  <a href="https://linkedin.com/in/junaidmohd02">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
+<table align="center">
+<tr>
+<td>
+<a href="https://linkedin.com/in/junaidmohd02">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50">
+</a>
+</td>
 
-  <span style="font-size:22px; vertical-align:middle;"> • </span>
+<td align="center" valign="middle">
+<b>•</b>
+</td>
 
-  <a href="mailto:theub002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-</p>
+<td>
+<a href="mailto:theub002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50">
+</a>
+</td>
+</tr>
+</table>
 
 ## CP Handles
-<p align="center">
-  <a href="https://codeforces.com/profile/theub">
-    <img src="https://codeforces.org/s/0/apple-icon-180x180.png"
-         height="45"
-         style="vertical-align: middle;">
-  </a>
-
-  <span style="vertical-align: middle; font-size: 20px;"> • </span>
-
-  <a href="https://www.codechef.com/users/theub">
-    <img src="https://cdn.simpleicons.org/codechef"
-         height="45"
-         style="vertical-align: middle;">
-  </a>
-
-  <span style="vertical-align: middle; font-size: 20px;"> • </span>
-
-  <a href="https://leetcode.com/u/theub">
-    <img src="https://cdn.simpleicons.org/leetcode"
-         height="45"
-         style="vertical-align: middle;">
-  </a>
-
-  <span style="vertical-align: middle; font-size: 20px;"> • </span>
-
-  <a href="https://atcoder.jp/users/theub_">
-    <img src="https://img.atcoder.jp/assets/atcoder.png"
-         height="45"
-         style="vertical-align: middle;">
-  </a>
-</p>
+<table align="center">
+<tr>
+<td><img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45"></td>
+<td align="center" valign="middle"><b>•</b></td>
+<td><img src="https://cdn.simpleicons.org/codechef" height="45"></td>
+<td align="center" valign="middle"><b>•</b></td>
+<td><img src="https://cdn.simpleicons.org/leetcode" height="45"></td>
+<td align="center" valign="middle"><b>•</b></td>
+<td><img src="https://img.atcoder.jp/assets/atcoder.png" height="45"></td>
+</tr>
+</table>
