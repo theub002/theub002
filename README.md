@@ -20,43 +20,20 @@
   <img src="https://komarev.com/ghpvc/?username=theub002&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-## Social Handles
-
-## Social Handles
-
-<p align="center">
-  <a href="https://linkedin.com/in/junaidmohd02">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50">
-  </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="mailto:theub002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50">
-  </a>
+### Social Handles
+<p align="left">
+  <a href="https://www.linkedin.com/in/junaidmohd02/"><img src="YOUR_LINKEDIN_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="mailto:theub002@gmail.com"><img src="YOUR_GMAIL_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
 </p>
 
-## CP Handles
-<p align="center">
-  <a href="https://codeforces.com/profile/theub">
-    <img src="https://codeforces.org/s/0/apple-icon-180x180.png" height="45">
-  </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://www.codechef.com/users/theub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45">
-  </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://leetcode.com/u/theub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="45">
-  </a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://atcoder.jp/users/theub_">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" height="45">
-  </a>
+### CP Handles
+<p align="left">
+  <a href="https://www.codechef.com/users/theub"><img src="YOUR_CODECHEF_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/theub/"><img src="YOUR_LEETCODE_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/theub"><img src="YOUR_CODEFORCES_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://atcoder.jp/users/theub_"><img src="YOUR_ATCODER_LOGO_URL" width="40" style="vertical-align: middle;"/></a>
 </p>
