@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/junaidmohd02/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn" align="middle" />
   </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:theub002@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" align="middle" />
   </a>
@@ -42,7 +42,7 @@
     alt="Codeforces" 
     align="middle"/>
   </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/theub">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codechef/white">
@@ -54,7 +54,7 @@
         align="middle" />
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/theub/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" 
       width="40" 
@@ -62,7 +62,7 @@
       alt="LeetCode"
       align="middle" />
   </a>  
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://atcoder.jp/users/theub_">
   <img src="https://img.atcoder.jp/assets/atcoder.png" 
        width="40"
